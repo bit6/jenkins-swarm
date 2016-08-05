@@ -1,0 +1,6 @@
+gatling:latest
+github:latest
+nodejs:latest
+performance:latest
+swarm:latest
+workflow-aggregator:latest
